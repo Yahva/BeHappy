@@ -48,8 +48,8 @@ public class Server {
                     break;
                 }
 
-                
-                output="Ok";
+
+                output="Hello";
                 out.println(output);
                 System.out.println(input);
             }
