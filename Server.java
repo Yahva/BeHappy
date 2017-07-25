@@ -37,7 +37,7 @@ public class Server {
             System.exit(-1);
         }
 
-        System.out.println("Client Connected");
+        System.out.println("Client Connected!");
 
         try{
             in = new BufferedReader(new InputStreamReader(socketClient.getInputStream()));
