@@ -49,7 +49,7 @@ public class Server {
                 }
 
 
-                output="Hello";
+                output="Poka";
                 out.println(output);
                 System.out.println(input);
             }
